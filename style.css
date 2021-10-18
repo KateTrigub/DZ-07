@@ -1,0 +1,216 @@
+.option1 .parent-block {
+    background-color: rgb(238, 238, 83);
+    width: 1000px;
+    height: auto;
+    margin-bottom: 30px;
+}
+
+.option1 .green {
+    background-color: green;
+    width: 50px;
+    height: 50px;
+    vertical-align: top;
+    float: left;
+    margin-left: 10px;
+}
+
+.option1 .blue {
+    background-color: rgb(0, 153, 255);
+    width: 50px;
+    height: 70px;
+    vertical-align: top;
+    float: right;
+    margin-right: 10px;
+}
+
+.option1 .clearfix {
+    clear: both;
+}
+
+.option2 .parent-block {
+    background-color: rgb(238, 238, 83);
+    width: 1000px;
+    height: auto;
+    margin-bottom: 30px;
+}
+
+.option2 .green {
+    background-color: green;
+    width: 70px;
+    height: 70px;
+    float: left;
+    margin-left: 10px;
+}
+
+.option2 .blue {
+    background-color: rgb(0, 153, 255);
+    width: 50px;
+    height: 50px;
+    float: right;
+    margin-top: 10px;
+    margin-right: 10px;
+}
+
+.option2 .yellowgreen {
+    background-color:yellowgreen;
+    width: 50px;
+    height: 50px;
+    float: right;
+    margin-top: 10px;
+    margin-right: 10px;
+}
+
+.option2 .red {
+    background-color: red;
+    width: 50px;
+    height: 50px;
+    float: right;
+    margin-top: 10px;
+    margin-right: 10px;
+}
+
+.option2 .violet {
+    background-color:violet;
+    width: 50px;
+    height: 50px;
+    float: right;
+    margin-top: 10px;
+    margin-right: 10px;
+}
+
+.option2 .clearfix {
+    clear: both;
+}
+
+.option3 .parent-block {
+    background-color: rgb(238, 238, 83);
+    width: 1000px;
+    height: auto;
+    margin-bottom: 30px;
+}
+
+.option3 .green {
+    background-color: green;
+    width: 50px;
+    height: 50px;
+    float: left;
+    margin-left: 10px;
+}
+
+.option3 .blue {
+    background-color: rgb(0, 153, 255);
+    width: 50px;
+    height: 50px;
+    float: right;
+    margin-right: 10px;
+}
+
+.option3 .red {
+    background-color: red;
+    width: 50px;
+    height: 50px;
+    float: right;
+    margin-right: 10px;
+}
+
+.option3 .violet {
+    background-color:violet;
+    width: 50px;
+    height: 50px;
+    float: left;
+    margin-left: 10px;
+}
+
+.option3 .clearfix {
+    clear: both;
+}
+
+.option4 .parent-block {
+    background-color: rgb(238, 238, 83);
+    width: 1000px;
+    height: auto;
+    margin-bottom: 30px;
+    padding-top: 5px;
+}
+
+.option4 .internal-parent-block {
+    width: 200px;
+    margin: auto;
+}
+
+.option4 .green {
+    background-color: green;
+    width: 100px;
+    height: 100px;
+    display: inline-block;
+}
+
+.option4 .group {
+    width: auto;
+    height: auto;
+    margin-left: 10px; 
+    display: inline-block;
+}
+
+.option4 .blue {
+    background-color: rgb(0, 153, 255);
+    width: 45px;
+    height: 45px;
+    margin: 5px;
+}
+
+.option4 .red {
+    background-color: red;
+    width: 45px;
+    height: 45px;
+    margin: 5px;
+}
+
+.option4 .clearfix {
+    clear: both;
+}
+
+.option5 .parent-block {
+    background-color: rgb(238, 238, 83);
+    width: 1000px;
+    height: auto;
+    margin-bottom: 30px;
+    padding-top: 5px;
+}
+
+.option5 .internal-parent-block {
+    width: auto;
+    float: right;
+}
+
+.option5 .green {
+    background-color: green;
+    width: 100px;
+    height: 100px;
+    display: inline-block;
+}
+
+.option5 .group {
+    width: auto;
+    height: auto;
+    margin-left: 10px; 
+    display: inline-block;
+}
+
+.option5 .blue {
+    background-color: rgb(0, 153, 255);
+    width: 45px;
+    height: 45px;
+    margin: 5px;
+}
+
+.option5 .red {
+    background-color: red;
+    width: 45px;
+    height: 45px;
+    margin: 5px;
+}
+
+.option5 .clearfix {
+    clear: both;
+}
